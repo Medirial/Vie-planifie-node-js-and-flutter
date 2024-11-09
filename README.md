@@ -1,4 +1,4 @@
-Life Management Application
+Vie planifiée
 
 This application, built with a Node.js backend and Flutter for the mobile frontend, is designed to help users manage and organize their daily lives. Using MongoDB as the database, the application offers features for taking notes and planning tasks, providing a comprehensive tool for personal productivity.
 
